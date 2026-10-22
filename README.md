@@ -1,65 +1,81 @@
 # OpenLove
 
-**一起探索爱情，分享思考，让好的关系观念不断进化。**
+**An open-source guide to understanding love, relationships, and the questions that come with them.**
 
-OpenLove 是 **Love Lab** 发起的开放协作项目。我们希望把关于爱情与亲密关系的想法，逐步整理成清晰、易理解、可讨论的**原则、逻辑图和问题诊断手册**，帮助大家从不同角度理解关系、分析问题、寻找可能的解决方式。
+OpenLove is a community project by **Love Lab**. Our goal is to turn ideas about love and relationships into clear, accessible, and continuously evolving **principles, visual graphs, and practical guides**.
 
-这里没有一套适用于所有人的「标准爱情答案」。我们更希望大家一起提出问题、质疑观点、补充经验，让这份手册随着讨论不断完善。
+We want people to be able to explore relationship questions, compare perspectives, identify problems, and think through possible solutions together.
 
-## 💗 项目缘起
+We don't believe there is one perfect formula for love. That's why OpenLove is open to questions, criticism, new ideas, and contributions from everyone.
 
-**2026 年 10 月**，Henry Teo 和几位朋友聚在一起，聊到了各自对爱情与亲密关系的困惑、经历和看法。讨论中，我们开始思考：
+## How it started
 
-- 「喜欢」「适合」和「爱」有什么不同？
-- 一段关系是怎样开始、发展和变化的？
-- 发生矛盾时，应该怎么判断和处理？
-- 有没有办法把零散的想法整理成一套更容易理解、可以持续改进的思考框架？
+In **October 2026**, **Henry Teo** and a few friends got together and started talking about love, relationships, and the problems people run into along the way.
 
-于是，我们把这些讨论画成了第一版《爱情指南与诊断手册》，也有了 **OpenLove**。
+Some simple questions led to a much bigger conversation:
 
-## 🧩 当前版本：V1 思路图
+- What is the difference between **liking someone**, **being compatible**, and **loving someone**?
+- How does love begin, grow, and change over time?
+- When problems arise, how do we understand them and decide what to do?
+- Could we turn our scattered ideas into a shared framework that anyone can discuss and improve?
 
-V1 是整个项目的起点，记录了最初的爱情三要素、关系发展路径，以及面对关系问题时的一些判断与处理思路。
+Those conversations became the first version of our **Love Guide & Relationship Diagnostic Handbook** — and the beginning of OpenLove.
 
-![爱情指南与诊断手册 V1](assets/爱情指南与诊断手册v1.png)
+## Version 1 — The original graph
 
-> **V1 只是初步的思考骨架，并非经过科学验证的统一结论。** 我们欢迎不同观点，也会不断修订其中不够准确、过于绝对或尚未考虑周全的部分。
+Our first version is a visual map of early ideas about love's key elements, how relationships develop, and ways to think through relationship problems.
 
-### V1 创作与贡献
+![OpenLove V1 — Love Guide & Relationship Diagnostic Handbook](assets/爱情指南与诊断手册v1.png)
 
-- **何一帆（Yifan Ho）**：提出最初的哲学思考骨架，包括爱情三要素、爱情的形成及相关基础原则。
-- **Henry Teo**：在原始想法上进一步扩展、梳理逻辑、建立判断流程，并绘制与完善 V1 思路图。
-- **参与讨论的朋友们**：提供问题、观点与交流，促成了项目的诞生。
+*The original V1 graph is in Chinese. We hope to make future versions easier to navigate and available in multiple languages.*
 
-## 🚀 接下来想做什么
+**V1 is a starting point, not a set of proven rules.** Some ideas may be incomplete, debatable, or too simplified. We want to improve them through thoughtful discussion and constructive feedback.
 
-- **图谱数字化**：将目前的静态思路图逐步转换成更容易阅读、检索、维护和更新的结构化 Graph。
-- **完善开放手册**：持续补充爱情与亲密关系的原则、典型问题、分析路径及可供参考的解决方法。
-- **多语言支持**：让来自不同语言背景的人都能阅读、讨论和贡献内容。
-- **社区共同维护**：通过 GitHub Issues、Pull Requests 和讨论，不断提出新观点、修正问题、更新版本。
-- **LoveOS（规划中）**：探索基于 OpenLove 框架的 AI 对话助手，帮助用户整理关系问题、思考不同选择，而不是替用户做决定。
-- **LoveCards（构想中）**：尝试将这些观点设计成反思卡牌、情境游戏或桌游，让讨论爱情变得更有趣。
+### Original ideas and credits
 
-这些都是目前的方向，不代表已经完成。我们会从完善这份手册开始，一步一步推进。
+- **Yifan Ho (何一帆)** — Developed the initial philosophical foundation, including the three elements of love, ideas about how love forms, and several core relationship principles.
+- **Henry Teo** — Expanded and organized the original ideas into a more structured, logical framework; developed the decision paths; and designed and refined the V1 visual graph.
+- **Our friends** — Contributed questions, perspectives, and conversations that helped inspire the project.
 
-## 🤝 欢迎一起贡献
+OpenLove is a collaborative effort, and we hope this list of contributors will keep growing.
 
-**爱情没有唯一的标准答案，这个项目也不应该只由少数人来定义。**
+## What's next?
 
-如果你有新的观点、发现了逻辑漏洞，或经历过值得讨论的关系问题，欢迎：
+We're starting with the handbook and hope to gradually build more around it:
 
-1. 提交 **Issue**，分享问题、建议或不同意见。
-2. 提交 **Pull Request**，完善文字、流程图、案例或翻译。
-3. 参与讨论，以尊重、开放的态度共同改进这份手册。
+- **An interactive digital graph** — Transform the current static diagram into a structured, easier-to-explore and easier-to-maintain graph.
+- **An open relationship handbook** — Expand and refine principles, common relationship questions, decision frameworks, and possible approaches to resolving problems.
+- **Multilingual support** — Make the material accessible to people across different languages and cultures.
+- **Community collaboration** — Improve ideas through GitHub Issues, Pull Requests, and constructive debate.
+- **LoveOS (planned)** — Explore an AI chat assistant grounded in the evolving OpenLove framework, helping people think through questions rather than making personal decisions for them.
+- **LoveCards (idea stage)** — Experiment with reflection cards, conversation prompts, and board games inspired by the handbook.
 
-我们欢迎质疑与分歧，也重视隐私：分享真实经历时，请避免公开他人的个人信息。
+These are **ideas and future directions**, not features we claim to have built already. We'll take them one step at a time.
 
-## 📌 一个小提醒
+## Contributing
 
-OpenLove 提供的是**思考工具和交流框架**，不是心理治疗、专业咨询，也不能保证诊断或预测任何一段关系的未来。每个人与每段关系都不同；请把这里的内容当作参考，而不是绝对规则。
+**Love is complicated. No single person should get to write all the rules.**
+
+If you have an idea, notice a gap in the logic, disagree with a principle, or want to improve a diagram or translation, you're welcome to contribute.
+
+- **Open an Issue** to share a question, suggestion, or constructive disagreement.
+- **Submit a Pull Request** to improve the writing, reasoning, diagrams, examples, or translations.
+- **Join the discussion** with curiosity and respect for different backgrounds and experiences.
+
+Please respect people's privacy. If you share a real relationship story, remove identifying information and make sure you have the right to share it.
+
+## Languages
+
+**English is the main language of this README for now.** The original V1 graph is in Chinese, and we plan to support translated documentation and graphs as the project grows.
+
+Contributions and perspectives in other languages are welcome. We want OpenLove to be useful across cultures, not limited to a single language or view of relationships.
+
+## A note on what this project is (and isn't)
+
+OpenLove is a collection of **ideas and tools for reflection**, not a scientific test of love, a substitute for professional counseling, or a way to predict the future of a relationship. Relationships are personal and complex. Treat this framework as a starting point for thinking and conversation — not a final verdict about anyone's life.
 
 ---
 
-**Made with love, curiosity, and a lot of conversations.**
+*Made with love, curiosity, and a lot of conversations.*
 
-*Love Lab · OpenLove · Started in October 2026*
+**Love Lab · OpenLove · Started in October 2026**
