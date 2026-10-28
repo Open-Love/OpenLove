@@ -4,6 +4,16 @@
 
 This repository currently shares **The Logic of Love: A Relationship Decision Framework**, a visual graph for exploring how love develops and how to think through relationship decisions.
 
+## The Logic of Love: A Relationship Decision Framework
+
+This graph maps ideas about love’s key elements, how relationships develop, and ways to think through relationship problems.
+
+![The Logic of Love: A Relationship Decision Framework](assets/Love%20theory.png)
+
+*The graph is in Chinese. We hope to make future versions easier to navigate and available in multiple languages.*
+
+**The framework is a starting point, not a set of proven rules.** Some ideas may be incomplete, debatable, or too simplified. We want to improve them through thoughtful discussion and constructive feedback.
+
 OpenLove is a community project by **Love Lab**. Our goal is to turn ideas about love and relationships into clear, accessible, and continuously evolving **principles, visual graphs, and practical guides**.
 
 We want people to be able to explore relationship questions, compare perspectives, identify problems, and think through possible solutions together.
@@ -22,16 +32,6 @@ Some simple questions led to a much bigger conversation:
 - Could we turn our scattered ideas into a shared framework that anyone can discuss and improve?
 
 Those conversations became the first version of our **Love Guide & Relationship Diagnostic Handbook** — and the beginning of OpenLove.
-
-## The Logic of Love: A Relationship Decision Framework
-
-This graph maps ideas about love’s key elements, how relationships develop, and ways to think through relationship problems.
-
-![The Logic of Love: A Relationship Decision Framework](assets/Love%20theory.png)
-
-*The graph is in Chinese. We hope to make future versions easier to navigate and available in multiple languages.*
-
-**The framework is a starting point, not a set of proven rules.** Some ideas may be incomplete, debatable, or too simplified. We want to improve them through thoughtful discussion and constructive feedback.
 
 ### Original ideas and credits
 
