@@ -1,6 +1,8 @@
 # OpenLove
 
-**An open-source guide to understanding love, relationships, and the questions that come with them.**
+**An open-source relationship decision framework for understanding love and thinking through relationship questions.**
+
+This repository currently shares **The Logic of Love: A Relationship Decision Framework**, a visual graph for exploring how love develops and how to think through relationship decisions.
 
 OpenLove is a community project by **Love Lab**. Our goal is to turn ideas about love and relationships into clear, accessible, and continuously evolving **principles, visual graphs, and practical guides**.
 
@@ -21,20 +23,20 @@ Some simple questions led to a much bigger conversation:
 
 Those conversations became the first version of our **Love Guide & Relationship Diagnostic Handbook** — and the beginning of OpenLove.
 
-## Version 1 — The original graph
+## The Logic of Love: A Relationship Decision Framework
 
-Our first version is a visual map of early ideas about love's key elements, how relationships develop, and ways to think through relationship problems.
+This graph maps ideas about love’s key elements, how relationships develop, and ways to think through relationship problems.
 
-![OpenLove V1 — Love Guide & Relationship Diagnostic Handbook](assets/爱情指南与诊断手册v1.png)
+![The Logic of Love: A Relationship Decision Framework](assets/Love%20theory.png)
 
-*The original V1 graph is in Chinese. We hope to make future versions easier to navigate and available in multiple languages.*
+*The graph is in Chinese. We hope to make future versions easier to navigate and available in multiple languages.*
 
-**V1 is a starting point, not a set of proven rules.** Some ideas may be incomplete, debatable, or too simplified. We want to improve them through thoughtful discussion and constructive feedback.
+**The framework is a starting point, not a set of proven rules.** Some ideas may be incomplete, debatable, or too simplified. We want to improve them through thoughtful discussion and constructive feedback.
 
 ### Original ideas and credits
 
-- **Yifan Ho (何一帆)** — Developed the initial philosophical foundation, including the three elements of love, ideas about how love forms, and several core relationship principles.
-- **Henry Teo** — Expanded and organized the original ideas into a more structured, logical framework; developed the decision paths; and designed and refined the V1 visual graph.
+- **Yifan Ho** — Developed the initial philosophical foundation, including the three elements of love, ideas about how love forms, and several core relationship principles.
+- **Henry Teo** — Expanded and organized the original ideas into a more structured, logical framework; developed the decision paths; and designed and refined the visual graph.
 - **Our friends** — Contributed questions, perspectives, and conversations that helped inspire the project.
 
 OpenLove is a collaborative effort, and we hope this list of contributors will keep growing.
@@ -66,7 +68,7 @@ Please respect people's privacy. If you share a real relationship story, remove 
 
 ## Languages
 
-**English is the main language of this README for now.** The original V1 graph is in Chinese, and we plan to support translated documentation and graphs as the project grows.
+**English is the main language of this README for now.** The current graph is in Chinese, and we plan to support translated documentation and graphs as the project grows.
 
 Contributions and perspectives in other languages are welcome. We want OpenLove to be useful across cultures, not limited to a single language or view of relationships.
 
